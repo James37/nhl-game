@@ -1,0 +1,21 @@
+.team-label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+  justify-content: center;
+}
+
+.player-headshot {
+  width: 100px; /* Adjust as needed */
+  height: 100px; /* Adjust as needed */
+  object-fit: cover; /* Ensure the headshot covers the entire space */
+}
+
+.player-name {
+  margin-top: 5px; /* Adjust as needed */
+  font-size: 18px;
+  font-family: Helvetica, sans-serif;
+  font-weight: 600;
+}

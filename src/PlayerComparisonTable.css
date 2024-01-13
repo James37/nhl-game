@@ -1,0 +1,16 @@
+.correct {
+  color: green !important;
+}
+
+.wrong {
+  color: red !important;
+}
+
+.table-heading {
+  font-size: 20px;
+}
+
+tbody {
+  font-size: 20px;
+  font-weight: 600;
+}
